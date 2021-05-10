@@ -9,4 +9,6 @@ public class MyNewClass {
 	public void m2() {
 		System.out.println("I AM DOING THE CLONEING IN THIS TECHNIQUE");
 	}
+	
+	public static void m345() {}
 }
